@@ -4,7 +4,7 @@ import {FiPlus, FiSearch} from "react-icons/fi"
 
 import {Header} from "../../pastaComponentes/Header";
 import {BotaoTexto} from "../../pastaComponentes/BotaoTexto"
-import {Input} from "../../pastaComponentes/input"
+import {Input} from "../../pastaComponentes/Input"
 import {Secao} from "../../pastaComponentes/Secao"
 import {Nota} from "../../pastaComponentes/Nota"
 
